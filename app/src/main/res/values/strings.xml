@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Brújula Campo de los Pericos</string>
+    <string name="coordenadas">Coordenadas:</string>
+    <string name="Ok">OK</string>
+    <string name="Continuar">Continuar</string>
+    <string name="cancelar">cancelar</string>
+    <string name="permisos">Es necesario que aceptes los permisos de ubicación para el uso de esta aplicación.</string>
+    <string name="compass_pointer">Compass Pointer</string>
+    <string name="todo">TODO</string>
+    <string name="distancia">Distancia:</string>
+</resources>
